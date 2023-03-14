@@ -260,8 +260,6 @@ LEGO Indiana Jones- The Original Adventures
 LEGO Marvel Super Heroes
 LEGO The Hobbit
 LEGO The Lord of the Rings
-List.bat
-list.txt
 Little Nightmares II
 Mad Max
 Marvel vs. Capcom- Infinite
